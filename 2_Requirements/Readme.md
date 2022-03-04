@@ -2,7 +2,7 @@
 # Requirements
 
 Java project. Contacts Manager is a simple mini project code in java.This is similar to contact manager in Mobile phones.
-[1] Add a new Contact [2] List all Contacts [3] Search for contact [5] Delete a Contact [6] Exit
+  Add a new Contact clear  List all Contacts   Delete a Contact Exit
 
 # High Level 
 
