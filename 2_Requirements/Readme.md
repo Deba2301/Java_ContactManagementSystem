@@ -20,13 +20,14 @@ Java project. Contacts Manager is a simple mini project code in java.This is sim
 3. Add Contact no. of the user. 
 
 * Search Contact
-1. User's name 
-2. User's contact no.
+1. User's first name
+2. User's surname.
+3. User's contact no.
 
 * Delete Contact
-1. User's name 
-2. User's contact no.
-
+1. User's first name
+2. User's surname.
+3. User's contact no.
 
 # 4W's and 1H
 
